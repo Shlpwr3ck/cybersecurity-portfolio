@@ -1,13 +1,13 @@
 # Cybersecurity Portfolio
 
-**James Jackson** | Security Analyst | Veteran
+**James Jackson** | Security Analyst | Veteran |
 CompTIA Security+ | CompTIA Network+ | DoD 8570 Compliant
 
 ---
 
 ## About Me
 
-Cybersecurity professional with 20+ years IT experience transitioning from U.S. Navy service to civilian cybersecurity roles. Focused on offensive security, penetration testing, and security operations with hands-on lab experience and practical skill development.
+Cybersecurity professional with 20+ years secruity experience transitioning from U.S. Navy service to civilian cybersecurity roles. Focused on offensive security, penetration testing, and security operations with hands-on lab experience and practical skill development.
 
 **Current Focus:**
 - Offensive security techniques and methodology
@@ -20,8 +20,8 @@ Cybersecurity professional with 20+ years IT experience transitioning from U.S. 
 ## Certifications
 
 - **CompTIA Security+ (SY0-701)** - December 2025
-- **CompTIA Network+** - [Date]
-- **Bachelor's Degree in Cybersecurity** - Columbia College
+- **CompTIA Network+ (N10-009)**- October 2025
+- **Bachelor's Degree in Cybersecurity** - Columbia College - April 2025
 
 **In Progress:**
 - TryHackMe Cyber Security 101 Path (84% complete)
@@ -100,7 +100,7 @@ Seeking cybersecurity position in federal government, defense contracting, or pr
 
 - **GitHub:** [Shlpwr3ck](https://github.com/Shlpwr3ck)
 - **LinkedIn:** [Update when ready]
-- **Email:** [Professional email]
+- **Email:** James.R.Jackson@me.com
 
 ---
 
