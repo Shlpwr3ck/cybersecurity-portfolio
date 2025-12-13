@@ -7,7 +7,7 @@ CompTIA Security+ | CompTIA Network+ | DoD 8570 Compliant
 
 ## About Me
 
-Cybersecurity professional with 20+ years secruity experience transitioning from U.S. Navy service to civilian cybersecurity roles. Focused on offensive security, penetration testing, and security operations with hands-on lab experience and practical skill development.
+U.S. Navy veteran (20 years active duty, GM - Gunner's Mate) transitioning into cybersecurity. During my Navy career, I maintained weapons systems, hydraulic and pneumatic systems, and ship security protocols. Now applying that discipline, attention to detail, and security mindset to offensive security and penetration testing with hands-on lab experience and practical skill development.
 
 **Current Focus:**
 - Offensive security techniques and methodology
@@ -99,7 +99,11 @@ Seeking cybersecurity position in federal government, defense contracting, or pr
 ## Contact
 
 - **GitHub:** [Shlpwr3ck](https://github.com/Shlpwr3ck)
+<<<<<<< HEAD
 - **LinkedIn:** [Update when ready]
+=======
+- **LinkedIn:** [James Jackson](https://www.linkedin.com/in/james-jackson)
+>>>>>>> d315100 (Correct Navy background and add contact information)
 - **Email:** James.R.Jackson@me.com
 
 ---
