@@ -43,6 +43,12 @@ Infrastructure, network topology, and security tool implementations.
 
 ## Documentation
 
-Detailed setup guides and configuration documentation for lab components.
+### Lab Setup Guides
 
-*(Lab documentation will be added as components are deployed)*
+- **[Wazuh SIEM Setup](./wazuh-siem-setup.md)** - Complete Wazuh SIEM installation and configuration for security monitoring
+- **[Docker Lab Services](./docker-lab-services.md)** - Docker-based vulnerable services for penetration testing practice
+- **[Network Topology](./network-topology.md)** - Lab network architecture and IP addressing scheme
+
+### Lab Environment Overview
+
+Detailed documentation of infrastructure components, security tools deployed, and testing methodologies used in the home lab environment.
