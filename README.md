@@ -1,0 +1,107 @@
+# Cybersecurity Portfolio
+
+**James Jackson** | Security Analyst | Veteran
+CompTIA Security+ | CompTIA Network+ | DoD 8570 Compliant
+
+---
+
+## About Me
+
+Cybersecurity professional with 20+ years IT experience transitioning from U.S. Navy service to civilian cybersecurity roles. Focused on offensive security, penetration testing, and security operations with hands-on lab experience and practical skill development.
+
+**Current Focus:**
+- Offensive security techniques and methodology
+- Home lab infrastructure and virtualization
+- TryHackMe and HackTheBox challenges
+- Security monitoring and SIEM implementation
+
+---
+
+## Certifications
+
+- **CompTIA Security+ (SY0-701)** - December 2025
+- **CompTIA Network+** - [Date]
+- **Bachelor's Degree in Cybersecurity** - Columbia College
+
+**In Progress:**
+- TryHackMe Cyber Security 101 Path (84% complete)
+- Advanced certification planning (CySA+ or PenTest+)
+
+---
+
+## Technical Skills
+
+**Security Tools:**
+- Nmap, Wireshark, Wazuh SIEM
+- Network analysis and packet inspection
+- Vulnerability assessment
+- Security monitoring and incident response
+
+**Infrastructure:**
+- Linux system administration (Ubuntu, Kali)
+- Virtualization and lab environments
+- Network configuration and troubleshooting
+- Docker containerization
+
+**Development:**
+- Bash scripting and automation
+- Git version control
+- Documentation and technical writing
+
+---
+
+## Portfolio Contents
+
+### [Write-ups](./writeups/)
+Detailed walkthroughs and analysis of security challenges, CTF boxes, and lab exercises.
+
+### [Labs](./labs/)
+Documentation of home lab infrastructure, network topology, and security tool implementations.
+
+### [Tools](./tools/)
+Custom scripts, automation tools, and security utilities developed during learning and practice.
+
+---
+
+## Home Lab Environment
+
+Active cybersecurity home lab running:
+- Wazuh SIEM for security monitoring
+- Multiple VMs for offensive/defensive testing
+- Network services for exploitation practice
+- Isolated training environment
+
+**Lab Documentation:** [labs/](./labs/)
+
+---
+
+## Current Projects
+
+- Completing TryHackMe Cyber Security 101 learning path
+- Building comprehensive home lab infrastructure
+- Developing security tool proficiency through hands-on practice
+- Creating write-ups and documentation for portfolio presentation
+
+---
+
+## Professional Goals
+
+Seeking cybersecurity position in federal government, defense contracting, or private sector focusing on:
+- Security operations and monitoring
+- Penetration testing and vulnerability assessment
+- Incident response and threat analysis
+- Infrastructure security and hardening
+
+**Target:** Leverage DoD 8570 compliance, veteran status, and hands-on technical skills for security analyst or penetration tester role leading to second retirement in government/defense sector.
+
+---
+
+## Contact
+
+- **GitHub:** [Shlpwr3ck](https://github.com/Shlpwr3ck)
+- **LinkedIn:** [Update when ready]
+- **Email:** [Professional email]
+
+---
+
+**Last Updated:** December 2025

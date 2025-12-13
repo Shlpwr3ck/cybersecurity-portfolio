@@ -1,0 +1,32 @@
+# Sensitive Information
+*.kdbx
+*password*
+*credential*
+*.env
+.env.*
+secrets/
+
+# Personal Notes
+*TODO*
+*DRAFT*
+*INCOMPLETE*
+
+# System Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs
+*.log
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
