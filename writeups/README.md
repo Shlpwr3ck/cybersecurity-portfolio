@@ -8,7 +8,11 @@ Security challenge walkthroughs, CTF solutions, and vulnerability analysis docum
 
 Detailed write-ups from TryHackMe learning paths and challenges.
 
-*(Write-ups will be added as challenges are completed)*
+| Room Name | Difficulty | Key Topics | Date |
+|-----------|------------|------------|------|
+| [Blue](./tryhackme/thm-blue.md) | Easy | Windows exploitation, EternalBlue (MS17-010), Metasploit, SMB vulnerabilities | Dec 2025 |
+| [Moniker Link (CVE-2024-21413)](./tryhackme/thm-moniker-link-cve-2024-21413.md) | Easy | Current CVE exploitation, NTLM credential leaking, Outlook bypass | Dec 2025 |
+| [Metasploit: Exploitation](./tryhackme/thm-metasploit-exploitation.md) | Easy | Metasploit Framework, exploitation methodology, Meterpreter | Dec 2025 |
 
 ---
 
