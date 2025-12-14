@@ -45,6 +45,7 @@ Infrastructure, network topology, and security tool implementations.
 
 ### Lab Setup Guides
 
+- **[AI-Assisted Security Workstation](./ai-assisted-security-workstation.md)** - Parrot OS workstation integrated with Claude Code, Google Gemini, and Ollama for AI-augmented penetration testing
 - **[Wazuh SIEM Setup](./wazuh-siem-setup.md)** - Complete Wazuh SIEM installation and configuration for security monitoring
 - **[Docker Lab Services](./docker-lab-services.md)** - Docker-based vulnerable services for penetration testing practice
 - **[Network Topology](./network-topology.md)** - Lab network architecture and IP addressing scheme
