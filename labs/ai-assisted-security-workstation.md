@@ -514,6 +514,6 @@ This AI-assisted security workstation represents the cutting edge of penetration
 ---
 
 **Created:** December 2025
-**Author:** James Jackson (Shlpwr3ck)
+**Author:** Jax (Shlpwr3ck)
 **Environment:** Parrot Security OS + Claude Code + Gemini + Ollama
 **Purpose:** AI-augmented penetration testing and security research
