@@ -7,7 +7,7 @@ CompTIA Security+ | CompTIA Network+ | DoD 8570 Compliant
 
 ## About Me
 
-U.S. Navy veteran (20 years active duty, GM - Gunner's Mate) transitioning into cybersecurity. During my Navy career, I maintained weapons systems, hydraulic and pneumatic systems, and ship security protocols. Now Jax applies that discipline, attention to detail, and security mindset to offensive security and penetration testing with hands-on lab experience and practical skill development.
+U.S. Navy veteran (20 years active duty, GM - Gunner's Mate) transitioning into cybersecurity. During my Navy career, I maintained weapons systems, hydraulic and pneumatic systems, and ship security protocols. Now applying that discipline, attention to detail, and security mindset to offensive security and penetration testing with hands-on lab experience and practical skill development.
 
 **Current Focus:**
 - Offensive security techniques and methodology

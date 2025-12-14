@@ -7,23 +7,23 @@
 
 ## Network Overview
 
-**Network:** 192.168.1.0/24
+**Network:** 192.168.x.x/24 (Private lab subnet)
 
 ---
 
 ## Lab Infrastructure
 
 ### Proxmox Hypervisor
-- **IP:** 192.168.1.50
+- **IP:** 192.168.x.x
 - **Hostname:** proxmox
 - **User:** root
 - **Purpose:** Virtualization host
-- **Web UI:** https://192.168.1.50:8006
+- **Web UI:** https://192.168.x.x:8006
 
 ---
 
 ### Ubuntu Server VM (on Proxmox)
-- **IP:** 192.168.1.104
+- **IP:** 192.168.x.x
 - **Hostname:** noblehomeserver
 - **User:** sh1pwr3ck
 - **Purpose:**
@@ -32,7 +32,7 @@
   - Wazuh agent (reports to dead-reckoning)
   - Snort IDS (2 interfaces)
 - **Docker Services:**
-  - ntopng: http://192.168.1.104:3000 (network traffic monitor)
+  - ntopng: http://192.168.x.x:3000 (network traffic monitor)
   - Pi-hole: DNS filtering/ad blocking
   - Plex: Media server
 - **Security:**
@@ -43,7 +43,7 @@
 ---
 
 ### Dead Reckoning (Main Workstation)
-- **IP:** 192.168.1.23
+- **IP:** 192.168.x.x
 - **Hostname:** dead-reckoning
 - **OS:** Ubuntu 25.10
 - **User:** sh1pwr3ck
@@ -60,7 +60,7 @@
 ---
 
 ### Linux Mint All-in-One
-- **IP:** 192.168.1.134
+- **IP:** 192.168.x.x
 - **Hostname:** mint-allinone
 - **OS:** Linux Mint
 - **User:** sh1pwr3ck
@@ -100,12 +100,12 @@
 ## Future VMs (Planned)
 
 ### Kali Linux
-- **IP:** 192.168.1.100
+- **IP:** 192.168.x.x
 - **User:** kali
 - **Purpose:** Penetration testing
 
 ### Metasploitable
-- **IP:** 192.168.1.101
+- **IP:** 192.168.x.x
 - **User:** msfadmin
 - **Purpose:** Vulnerable target for practice
 
@@ -115,16 +115,16 @@
 
 ```bash
 # Proxmox host
-ssh root@192.168.1.50
+ssh root@192.168.x.x
 
 # Ubuntu Server (ntopng)
-ssh sh1pwreck@192.168.1.104
+ssh sh1pwreck@192.168.x.x
 
 # Dead Reckoning (main workstation)
-ssh sh1pwr3ck@192.168.1.23
+ssh sh1pwr3ck@192.168.x.x
 
 # Linux Mint
-ssh [user]@192.168.1.134
+ssh [user]@192.168.x.x
 ```
 
 ---
@@ -132,14 +132,14 @@ ssh [user]@192.168.1.134
 ## Service URLs
 
 **Proxmox Web UI:**
-- https://192.168.1.50:8006
+- https://192.168.x.x:8006
 
 **ntopng (Ubuntu Server):**
-- http://192.168.1.104:3000
+- http://192.168.x.x:3000
 
 **Wazuh Dashboard (dead-reckoning):**
 - https://localhost:443 (from dead-reckoning)
-- https://192.168.1.23:443 (from remote)
+- https://192.168.x.x:443 (from remote)
 
 ---
 
@@ -147,16 +147,16 @@ ssh [user]@192.168.1.134
 
 ```bash
 # Check if Proxmox is up
-ping 192.168.1.50
+ping 192.168.x.x
 
 # Check if Ubuntu Server is up
-ping 192.168.1.104
+ping 192.168.x.x
 
 # SSH into Ubuntu Server
-ssh sh1pwreck@192.168.1.104
+ssh sh1pwreck@192.168.x.x
 
 # Check ntopng status on Ubuntu Server
-ssh sh1pwreck@192.168.1.104 "systemctl status ntopng"
+ssh sh1pwreck@192.168.x.x "systemctl status ntopng"
 ```
 
 ---

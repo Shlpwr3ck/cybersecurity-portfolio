@@ -1,7 +1,7 @@
 # Docker Lab Services Guide - noblehomeserver
 
 **Created:** December 10, 2025
-**Server:** noblehomeserver (192.168.1.104)
+**Server:** noblehomeserver (192.168.x.x)
 **Purpose:** Quick reference for Docker-based lab services
 
 ---
@@ -11,7 +11,7 @@
 ### 1. ntopng (Network Traffic Monitor)
 - **Container:** ntopng
 - **Image:** ntop/ntopng:latest
-- **Access:** http://192.168.1.104:3000
+- **Access:** http://192.168.x.x:3000
 - **Purpose:** Real-time network traffic monitoring and analysis
 - **Auto-restart:** ✅ Configured
 
@@ -147,9 +147,9 @@ sudo systemctl restart docker
 ## Service URLs
 
 **From local network:**
-- ntopng: http://192.168.1.104:3000
-- Pi-hole Admin: http://192.168.1.104/admin (or configured port)
-- Plex: http://192.168.1.104:32400/web
+- ntopng: http://192.168.x.x:3000
+- Pi-hole Admin: http://192.168.x.x/admin (or configured port)
+- Plex: http://192.168.x.x:32400/web
 
 **From this machine (noblehomeserver):**
 - ntopng: http://localhost:3000
@@ -257,12 +257,12 @@ docker ps
 
 **noblehomeserver runs:**
 1. **Docker containers** (ntopng, Pi-hole, Plex) - This guide
-2. **Wazuh agent** - Reports to Wazuh manager on dead-reckoning (192.168.1.23)
+2. **Wazuh agent** - Reports to Wazuh manager on dead-reckoning (192.168.x.x)
 3. **Snort IDS** - Network intrusion detection on 2 interfaces
 
 **Network position:**
-- Behind Proxmox (192.168.1.50)
-- Part of 192.168.1.0/24 network
+- Behind Proxmox (192.168.x.x)
+- Part of 192.168.x.x/24 network
 - Monitored by dead-reckoning's Wazuh SIEM
 
 ---

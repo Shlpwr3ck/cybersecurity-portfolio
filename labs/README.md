@@ -12,8 +12,8 @@ Infrastructure, network topology, and security tool implementations.
 - **Linux Mint All-in-One** - Secondary workstation
 - **MacBook Pro** - Mobile workstation
 
-**Virtualization:** Proxmox hypervisor (192.168.1.50)
-**Network:** 192.168.1.0/24 home lab network
+**Virtualization:** Proxmox hypervisor
+**Network:** 192.168.x.x/24 private lab network
 
 ---
 
