@@ -45,6 +45,7 @@
 ### Dead Reckoning (Main Workstation)
 - **IP:** 192.168.1.23
 - **Hostname:** dead-reckoning
+- **OS:** Ubuntu 25.10
 - **User:** sh1pwr3ck
 - **Purpose:** Main workstation & Wazuh SIEM server
 - **Services:**
@@ -55,6 +56,44 @@
     - Monitoring: noblehomeserver (Wazuh agent)
   - Claude Code
   - Development environment
+
+---
+
+### Linux Mint All-in-One
+- **IP:** 192.168.1.134
+- **Hostname:** mint-allinone
+- **OS:** Linux Mint
+- **User:** sh1pwr3ck
+- **Hardware:** All-in-one desktop computer
+- **Purpose:** Secondary workstation / backup system
+
+---
+
+### Hacktop (Parrot Security Laptop)
+- **Hostname:** hacktop
+- **OS:** Parrot Security OS
+- **User:** sh1pwr3ck
+- **Hardware:** Laptop
+- **Purpose:** AI-assisted penetration testing workstation
+- **AI Tools:**
+  - Claude Code CLI (cloud AI for code/research)
+  - Google Gemini (multimodal analysis)
+  - Ollama (local LLM hosting - Llama2, CodeLlama, Mistral)
+- **Use Cases:**
+  - Offensive security research
+  - Exploit development
+  - Privacy-preserving local AI analysis
+  - Mobile pentesting platform
+- **Documentation:** [AI-Assisted Security Workstation](./ai-assisted-security-workstation.md)
+
+---
+
+### MacBook Pro
+- **Hostname:** macbook
+- **OS:** macOS
+- **User:** sh1pwr3ck
+- **Hardware:** MacBook Pro
+- **Purpose:** General computing / mobile workstation
 
 ---
 

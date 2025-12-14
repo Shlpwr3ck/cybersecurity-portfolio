@@ -6,9 +6,14 @@ Infrastructure, network topology, and security tool implementations.
 
 ## Lab Environment
 
-**Host System:** Ubuntu 25.10 (dead-reckoning)
-**Virtualization:** VirtualBox, Proxmox planning
-**Network:** Isolated lab network for security testing
+**Physical Hardware:**
+- **Dead Reckoning** - Ubuntu 25.10 workstation (Wazuh SIEM server)
+- **Hacktop** - Parrot Security OS laptop (AI-assisted pentesting)
+- **Linux Mint All-in-One** - Secondary workstation
+- **MacBook Pro** - Mobile workstation
+
+**Virtualization:** Proxmox hypervisor (192.168.1.50)
+**Network:** 192.168.1.0/24 home lab network
 
 ---
 
