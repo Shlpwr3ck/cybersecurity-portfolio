@@ -76,7 +76,6 @@
     - Manager: port 55000
     - Dashboard: https://localhost:443
     - Monitoring: 7 agents (see Wazuh Agents section)
-  - Claude Code
   - Development environment
 
 ---

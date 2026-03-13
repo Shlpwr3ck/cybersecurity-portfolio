@@ -50,7 +50,7 @@
 
 ### SSH Access
 - **Command:** `ssh root@192.168.1.60`
-- **Key:** Claude Code SSH key installed
+- **Key:** SSH key installed
 - **Status:** ✅ Configured
 
 ---
@@ -313,4 +313,4 @@ docker start frigate
 
 **Created:** December 23, 2025
 **Last Updated:** December 23, 2025
-**Maintained by:** sh1pwr3ck via Claude Code
+**Maintained by:** sh1pwr3ck

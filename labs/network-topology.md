@@ -54,7 +54,6 @@
     - Manager: port 55000
     - Dashboard: https://localhost:443
     - Monitoring: noblehomeserver (Wazuh agent)
-  - Claude Code
   - Development environment
 
 ---
@@ -76,7 +75,7 @@
 - **Hardware:** Laptop
 - **Purpose:** AI-assisted penetration testing workstation
 - **AI Tools:**
-  - Claude Code CLI (cloud AI for code/research)
+  - AI CLI (cloud LLM for code/research)
   - Google Gemini (multimodal analysis)
   - Ollama (local LLM hosting - Llama2, CodeLlama, Mistral)
 - **Use Cases:**

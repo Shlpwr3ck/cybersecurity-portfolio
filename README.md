@@ -27,9 +27,9 @@ Pursuing a career as a Penetration Tester. Studying CompTIA PenTest+ (exam April
 ## Active Projects
 
 ### 🤖 [1st Mate — Personal AI Assistant](https://github.com/Shlpwr3ck/firstmate)
-Built a personal AI assistant from scratch: Telegram bot, Claude API agentic tool loop, Ollama local fallback. 16 tools including SSH to any network machine, filesystem access, email, calendar, web search, and persistent memory. Deployed in Docker.
+Built a personal AI assistant from scratch: Telegram bot, agentic tool loop, Ollama local fallback. 17 tools including SSH to any network machine, filesystem access, email, calendar, web search, GitHub management, and persistent memory. Deployed in Docker.
 
-**What I built:** Full agentic loop (Claude → tool call → execute → result → Claude), custom tool dispatcher, Docker multi-service deployment, Telegram bot integration
+**What I built:** Full agentic loop (LLM → tool call → execute → result → LLM), custom tool dispatcher, Docker multi-service deployment, Telegram bot integration
 
 ### 🛡️ Wazuh SIEM Production Deployment
 Deployed and tuned a production Wazuh SIEM across 7 agents on my home network. Built custom OpenSearch dashboards, wrote custom alert tuning rules, configured FIM across all endpoints, and resolved indexer authentication issues. Identified and suppressed high-volume noise (8.7M false positives from NVR) to surface real security events.
@@ -66,7 +66,7 @@ Running an active IT consulting business. Primary managed client: First Baptist 
 **Development:**
 - Python (automation, API integration, AI tooling)
 - Bash scripting
-- Anthropic Claude API / agentic AI development
+- LLM API integration / agentic AI development
 - Git, REST APIs
 
 ---
