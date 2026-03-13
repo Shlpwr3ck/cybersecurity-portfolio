@@ -1,107 +1,102 @@
 # Cybersecurity Portfolio
 
-**James (Jax) Jackson** | Security Analyst | Veteran |
-CompTIA Security+ | CompTIA Network+ | DoD 8570 Compliant
+**James (Jax) Jackson** | IT Consultant & Penetration Tester (In Progress) | U.S. Navy Veteran
+CompTIA Security+ · CompTIA Network+ · DoD 8570 Compliant · PenTest+ April 2026
 
 ---
 
 ## About Me
 
-U.S. Navy veteran (20 years active duty, GM - Gunner's Mate) transitioning into cybersecurity. During my Navy career, I maintained weapons systems, hydraulic and pneumatic systems, and ship security protocols. Now applying that discipline, attention to detail, and security mindset to offensive security and penetration testing with hands-on lab experience and practical skill development.
+U.S. Navy veteran (20 years active duty, GM — Gunner's Mate, retired 2022) turned IT consultant and cybersecurity professional. Owner of **Noble Technologies LLC** in Dunnellon, FL — providing IT support and cybersecurity consulting to residential and small business clients.
 
-**Current Focus:**
-- Offensive security techniques and methodology
-- Home lab infrastructure and virtualization
-- TryHackMe and HackTheBox challenges
-- Security monitoring and SIEM implementation
+Pursuing a career as a Penetration Tester. Studying CompTIA PenTest+ (exam April 1, 2026) while running an active home lab and managing real-world IT infrastructure for clients.
 
 ---
 
 ## Certifications
 
-- **CompTIA Security+ (SY0-701)** - December 2025
-- **CompTIA Network+ (N10-009)**- October 2025
-- **Bachelor's Degree in Cybersecurity** - Columbia College - April 2025
+| Certification | Issuer | Status |
+|---|---|---|
+| **PenTest+** (PT0-003) | CompTIA | 🔄 In Progress — Exam April 1, 2026 |
+| **Security+** (SY0-701) | CompTIA | ✅ December 2025 |
+| **Network+** (N10-009) | CompTIA | ✅ October 2025 |
+| **B.S. Cybersecurity** | Columbia College | ✅ April 2025 |
 
-**In Progress:**
-- TryHackMe Cyber Security 101 Path (84% complete)
-- Advanced certification planning (CySA+ or PenTest+)
+---
+
+## Active Projects
+
+### 🤖 [1st Mate — Personal AI Assistant](https://github.com/Shlpwr3ck/firstmate)
+Built a personal AI assistant from scratch: Telegram bot, Claude API agentic tool loop, Ollama local fallback. 16 tools including SSH to any network machine, filesystem access, email, calendar, web search, and persistent memory. Deployed in Docker.
+
+**What I built:** Full agentic loop (Claude → tool call → execute → result → Claude), custom tool dispatcher, Docker multi-service deployment, Telegram bot integration
+
+### 🛡️ Wazuh SIEM Production Deployment
+Deployed and tuned a production Wazuh SIEM across 7 agents on my home network. Built custom OpenSearch dashboards, wrote custom alert tuning rules, configured FIM across all endpoints, and resolved indexer authentication issues. Identified and suppressed high-volume noise (8.7M false positives from NVR) to surface real security events.
+
+**What I learned:** OpenSearch security model, Wazuh agent configuration, custom rule writing, dashboard API
+
+### 🏠 Home Lab Infrastructure
+Full homelab running production-grade tools: Proxmox hypervisor, Frigate NVR (6 cameras), Pi-hole DNS, Twingate Zero trust, Syncthing, self-hosted WordPress with Cloudflare Tunnels and Umami analytics.
+
+### 🏢 Noble Technologies LLC
+Running an active IT consulting business. Primary managed client: First Baptist Church of Dunnellon — full IT infrastructure oversight, endpoint management, network maintenance, and security advisory.
 
 ---
 
 ## Technical Skills
 
-**Security Tools:**
-- Nmap, Wireshark, Wazuh SIEM
-- Network analysis and packet inspection
-- Vulnerability assessment
-- Security monitoring and incident response
+**Offensive Security:**
+- Reconnaissance, enumeration, exploitation methodology
+- Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark
+- PenTest+ curriculum (7.2 Authentication Attacks — current)
+
+**Defensive Security / Blue Team:**
+- Wazuh SIEM deployment, tuning, and custom rule writing
+- OpenSearch / dashboard development
+- File Integrity Monitoring, log analysis, vulnerability scanning
+- Incident triage and alert correlation
 
 **Infrastructure:**
-- Linux system administration (Ubuntu, Kali)
-- Virtualization and lab environments
-- Network configuration and troubleshooting
-- Docker containerization
+- Linux administration (Ubuntu, Kali, Debian)
+- Proxmox virtualization, Docker containerization
+- Nginx, WordPress, Cloudflare Tunnels
+- SSH hardening, network segmentation
 
 **Development:**
-- Bash scripting and automation
-- Git version control
-- Documentation and technical writing
+- Python (automation, API integration, AI tooling)
+- Bash scripting
+- Anthropic Claude API / agentic AI development
+- Git, REST APIs
 
 ---
 
 ## Portfolio Contents
 
 ### [Write-ups](./writeups/)
-Detailed walkthroughs and analysis of security challenges, CTF boxes, and lab exercises.
+Security challenge walkthroughs, CTF boxes, and lab exercises.
 
 ### [Labs](./labs/)
-Documentation of home lab infrastructure, network topology, and security tool implementations.
+Home lab documentation, network topology, and security tool implementations.
 
 ### [Tools](./tools/)
-Custom scripts, automation tools, and security utilities developed during learning and practice.
+Custom scripts and security utilities.
 
 ---
 
-## Home Lab Environment
+## Goals
 
-Active cybersecurity home lab running:
-- Wazuh SIEM for security monitoring
-- Multiple VMs for offensive/defensive testing
-- Network services for exploitation practice
-- Isolated training environment
-
-**Lab Documentation:** [labs/](./labs/)
-
----
-
-## Current Projects
-
-- Completing TryHackMe Cyber Security 101 learning path
-- Building comprehensive home lab infrastructure
-- Developing security tool proficiency through hands-on practice
-- Creating write-ups and documentation for portfolio presentation
-
----
-
-## Professional Goals
-
-Seeking cybersecurity position in federal government, defense contracting, or private sector focusing on:
-- Security operations and monitoring
-- Penetration testing and vulnerability assessment
-- Incident response and threat analysis
-- Infrastructure security and hardening
-
-**Target:** Leverage DoD 8570 compliance, veteran status, and hands-on technical skills for security analyst or penetration tester role leading to second retirement in government/defense sector.
+Targeting a Penetration Tester role after PenTest+ certification. Long-term: NinjaOne or similar security firm. Leveraging DoD 8570 compliance, veteran discipline, and hands-on lab experience.
 
 ---
 
 ## Contact
 
 - **GitHub:** [Shlpwr3ck](https://github.com/Shlpwr3ck)
-- **LinkedIn:** [Jax Jackson](https://www.linkedin.com/in/james-jackson)
-- **Email:** James.R.Jackson@me.com
+- **Website:** [nobletechnologiesllc.com](https://nobletechnologiesllc.com)
+- **LinkedIn:** [James Jackson](https://www.linkedin.com/in/james-jackson)
+- **Email:** jax@nobletechnologiesllc.com
 
 ---
 
-**Last Updated:** December 2025
+*Last Updated: March 2026*
