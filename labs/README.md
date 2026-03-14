@@ -50,6 +50,7 @@ Infrastructure, network topology, and security tool implementations.
 
 ### Lab Setup Guides
 
+- **[Metasploitable 2 on Proxmox](./metasploitable-proxmox-import.md)** - VMDK import, legacy hardware compatibility (IDE/e1000), network isolation for safe lab testing
 - **[AI-Assisted Security Workstation](./ai-assisted-security-workstation.md)** - Parrot OS workstation integrated with Claude Code, Google Gemini, and Ollama for AI-augmented penetration testing
 - **[Remote Desktop Access Lab](./remote-desktop-access-lab.md)** - VNC and SSH configuration for secure GUI access to penetration testing virtual machines
 - **[Wazuh SIEM Production Deployment](./wazuh-production-deployment.md)** - Production Wazuh deployment: agent configuration, custom rule tuning, OpenSearch hardening, and dashboard development
