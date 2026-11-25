@@ -36,6 +36,11 @@ Deployed and tuned a production Wazuh SIEM across 7 agents on my home network. B
 
 **What I learned:** OpenSearch security model, Wazuh agent configuration, custom rule writing, dashboard API
 
+### 🔎 [Home SOC Audit and Sensor Recovery](./labs/home-soc-audit-2026-11-24.md)
+Turned an endpoint anomaly investigation into a full monitoring-path audit. Deployed continuous packet capture and passive IDS on a dedicated sensor, recovered silently failed Wazuh components, and verified detection through dashboard indexing while documenting visibility and stability limits.
+
+**What I learned:** Evidence-based incident triage, Dumpcap retention, Suricata event filtering, Wazuh recovery, and end-to-end validation
+
 ### 🏠 Home Lab Infrastructure
 Full homelab running production-grade tools: Proxmox hypervisor, Frigate NVR (6 cameras), Pi-hole DNS, Twingate Zero trust, Syncthing, self-hosted WordPress with Cloudflare Tunnels and Umami analytics.
 

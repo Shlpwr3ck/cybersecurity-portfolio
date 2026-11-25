@@ -54,6 +54,7 @@ Infrastructure, network topology, and security tool implementations.
 - **[AI-Assisted Security Workstation](./ai-assisted-security-workstation.md)** - Parrot OS workstation integrated with Claude Code, Google Gemini, and Ollama for AI-augmented penetration testing
 - **[Remote Desktop Access Lab](./remote-desktop-access-lab.md)** - VNC and SSH configuration for secure GUI access to penetration testing virtual machines
 - **[Wazuh SIEM Production Deployment](./wazuh-production-deployment.md)** - Production Wazuh deployment: agent configuration, custom rule tuning, OpenSearch hardening, and dashboard development
+- **[Home SOC Audit and Sensor Recovery](./home-soc-audit-2026-11-24.md)** - Endpoint audit, continuous Dumpcap capture, Suricata-to-Wazuh validation, central-service recovery, and documented limitations
 - **[Wazuh SIEM Setup](./wazuh-siem-setup.md)** - Quick reference for Wazuh service startup and recovery
 - **[Docker Lab Services](./docker-lab-services.md)** - Docker-based vulnerable services for penetration testing practice
 - **[Frigate NVR Setup](./frigate-nvr-setup.md)** - AI-powered network video recorder deployment for security camera monitoring
